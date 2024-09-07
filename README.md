@@ -5,7 +5,7 @@
 This project develops a blockchain-based network for detecting fake news, leveraging NLP based ML model for assisting a consortium of auditors. The public part of the network enables anonymous participation for readers to access & submit news as transactions which are verified by auditors using a combination of PBFT & Proof of Stake consensus
 
 <p align="center">
-    <img src="Flowchart Images/ENTER NETWORK-1.jpeg" alt="Alt text" height="400" width="400">
+    <img src="Flowchart Images/ENTER NETWORK.jpeg" alt="Alt text" height="400" width="400">
 </p>
 
 ### Running the Project
